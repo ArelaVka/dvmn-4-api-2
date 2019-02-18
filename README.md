@@ -10,3 +10,9 @@ dvmn - API веб-сервисов - Урок 2. Bitly-аналитика
 ```bash
 pip install -r requirements.txt
 ```
+
+Пример использования:
+```bash
+python main.py ya.ru
+Your bitlink: bit.ly/2t7hCiD
+```
